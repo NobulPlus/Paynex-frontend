@@ -1,11 +1,13 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from 'react';
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { toast } from 'react-hot-toast';
-import { useNavigate, NavLink } from "react-router-dom";
+// import { toast } from 'react-hot-toast';
+import { useNavigate } from "react-router-dom";
 import basestyle from "../assets/styles/Base.module.css";
-import styles from './screenStyle_2.css';
+// import styles from './screenStyle_2.css';
 
 const Register = () => {
   const navigate = useNavigate();

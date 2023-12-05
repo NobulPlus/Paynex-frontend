@@ -1,8 +1,8 @@
 import React from 'react';
-import styles from './sendToBank.css';
-import svg1 from '../assets/search.svg';
-import svg2 from '../assets/jk.svg';
-import svg3 from '../assets/add.svg';
+// import styles from './sendToBank.css';
+// import svg1 from '../assets/search.svg';
+// import svg2 from '../assets/jk.svg';
+// import svg3 from '../assets/add.svg';
 
 const contentStyle = {
     display: 'flex',

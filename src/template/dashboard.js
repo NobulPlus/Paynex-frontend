@@ -1,5 +1,7 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
-import styles from './dashboard.css';
+// import styles from './dashboard.css';
 import svg1 from '../assets/profileImage.svg';
 import svg2 from '../assets/smallNigeriaFlag.svg';
 import svg3 from '../assets/hide.svg';

@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './bankTransfer.css';
+// import styles from './bankTransfer.css';
 import svg from '../assets/copy.svg';
 
 const contentStyle = {
@@ -30,7 +30,7 @@ const BankTransfer = () => {
                 <b>Account Number</b>
                 <small>1234567890</small>
             </div>
-            <a href="#">
+            <a href="/">
                 <img src={svg} alt="Copy" style={imgStyle} />
             </a>
         </div>

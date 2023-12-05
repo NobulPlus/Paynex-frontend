@@ -1,5 +1,6 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
-import styles from './deliveryAccount.css';
+// import styles from './deliveryAccount.css';
 import svg1 from '../assets/search.svg';
 import svg2 from '../assets/jk.svg';
 import svg3 from '../assets/add.svg';

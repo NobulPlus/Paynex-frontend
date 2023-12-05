@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './screenStyle_3-8.css';
+// import styles from './screenStyle_3-8.css';
 
 
 
@@ -11,10 +11,10 @@ const Screen4 = () => {
       <form className='form' action="" method="POST">
           <label for="">Your Email Address</label>
           <input className='input' type="text" name="email" id="email" placeholder="Enter your email address"></input>
-          <p>Already a user? <a href="#">Log in</a></p>
+          <p>Already a user? <a href="/login">Log in</a></p>
       <footer>
           <div className="text">
-              <p>By registering, you accept our <a href="#" ><b><u>Terms of Use</u></b></a> and <a href="#" ><b><u>Privacy Policy</u></b></a></p>
+              <p>By registering, you accept our <a href="/terms" ><b><u>Terms of Use</u></b></a> and <a href="/privacy" ><b><u>Privacy Policy</u></b></a></p>
           </div>
           <div>
               <input type="submit" className="contButton" value="Continue"/>

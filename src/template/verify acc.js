@@ -1,5 +1,6 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
-import styles from './screenStyle_3-8.css';
+// import styles from './screenStyle_3-8.css';
 
 
 const Screen3 = () => {

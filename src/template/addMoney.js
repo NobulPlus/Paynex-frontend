@@ -42,7 +42,7 @@ const AddMoney = () => {
           </div>
         </div>
         </a>
-        <a href="">
+        <a href="/">
         <div className='boxClick'>
           <img src={svg2} style={imgStyle} />
           <div className='column'>
