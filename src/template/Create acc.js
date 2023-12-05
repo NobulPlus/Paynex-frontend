@@ -1,7 +1,7 @@
 import React from 'react';
 import svg from "../assets/world.svg"
 
-import styles from './screenStyle_9.css';
+// import styles from './screenStyle_9.css';
 
 
 

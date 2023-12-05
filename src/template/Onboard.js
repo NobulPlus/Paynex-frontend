@@ -1,10 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom'
+// import ReactDOM from 'react-dom'
 import svg1 from "../assets/currency.svg"
 import svg2 from "../assets/creditCard.svg"
 import svg3 from "../assets/CurrencyTwo.svg"
-import styles from './screenStyle_1.css';
-import { useState, useEffect } from "react";
+// import styles from './screenStyle_1.css';
+import { useEffect } from "react";
 
 
 const imgStyle = {
@@ -66,7 +66,7 @@ const Screen1 = () => {
         </div>
         <div class="actionSection">
             <a href="./screen2">Create an account</a>
-            <a href="#">Login</a>
+            <a href="/login">Login</a>
         </div>
     </div>
   );

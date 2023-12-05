@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './addMoney.css';
+// import styles from './addMoney.css';
 import svg1 from '../assets/bankTransfer.svg';
 import svg2 from '../assets/cardMoney.svg';
 

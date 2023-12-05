@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import styles from './screenStyle_3-8.css';
+// import styles from './screenStyle_3-8.css';
 
 
 
