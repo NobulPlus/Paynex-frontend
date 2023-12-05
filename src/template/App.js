@@ -23,7 +23,7 @@ axios.defaults.baseURL = 'http://localhost:4000';
 axios.defaults.withCredentials = true;
 
 function App() {
-  const [userstate, setUserState] = useState({});
+  // const [userstate, setUserState] = useState({});
   return (
     <>
     <Toaster position='bottom-right' toastOptions={{ duration: 2000 }} /><BrowserRouter>
