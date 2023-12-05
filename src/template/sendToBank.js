@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 // import styles from './sendToBank.css';
 // import svg1 from '../assets/search.svg';
